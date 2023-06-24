@@ -8,3 +8,5 @@ Projeto desenvolvido nos primeiros desafios da <a href="https://rodolfomori.com.
 Tecnologia utilizadas
 
 >HTML e CSS
+
+Figma <a href="https://www.figma.com/file/NLeHPJXuYE08PPmRce9nhP/Shopping-via-mobile-illustration?node-id=0%3A1&_gl=1*19c4008*_ga*NzE4NzU2NzA2LjE2ODM4NDU4NDQ.*_ga_37GXT4VGQK*MTY4NzYzODY3OC43OC4xLjE2ODc2NDAwNjMuMC4wLjA.">EasyShopping</a></b2>
